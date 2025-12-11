@@ -30,6 +30,3 @@ Binary Search follows a divide-and-conquer approach:
 
 ---
 
-
-    return [], "Value not found"
-
